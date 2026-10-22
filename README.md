@@ -11,14 +11,22 @@
 ## DDL COMMANDS AND CONSTRAINTS:
   ### DDL- DATA DEFINITION LANGUAGE
   DDL is used to change or modify the structure of the database/table.
-## COMMANDS
-  ### CREATE - It Create the database and to create the table.
-  ### ALTER  - It Modify the data structure of an existing database object.
-  ### RENAME - It Rename the table name.
+## COMMANDS:
+  ### CREATE            - It Create the database and to create the table.
+  ### ALTER             - It Modify the data structure of an existing database object.
+  ### RENAME            - It Rename the table name.
   ### ALTER With RENAME - It Alter the table and rename the Specfic column.
-  ### Truncate - It Deletes the row wise data but column headers remains the same.
-  ### Drop    - It Deletes the database and table from the schema. It is Permanently Remover. 
-  
+  ### Truncate          - It Deletes the row wise data but column headers remains the same.
+  ### Drop              - It Deletes the database and table from the schema. It is Permanently Remover. 
+## KEYS :
+  ### PRIMARY KEY - It allows only unique id and no duplicates with no blanks.
+  ### FOREGIN KEY - It connects to one or more tables.
+## CONSTRAINTS :
+  ### NOT NULL        -
+  ### UNIQUE          -
+  ### CHECK           -
+  ### DEFAULT         -
+  ### AUTO_INCREMENT  -
   
 
 
