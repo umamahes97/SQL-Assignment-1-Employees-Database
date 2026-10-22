@@ -22,11 +22,12 @@
   ### PRIMARY KEY - It allows only unique id and no duplicates with no blanks.
   ### FOREGIN KEY - It connects to one or more tables.
 ## CONSTRAINTS :
-  ### NOT NULL        -
-  ### UNIQUE          -
-  ### CHECK           -
-  ### DEFAULT         -
-  ### AUTO_INCREMENT  -
+  ### NOT NULL        - It Should have values if it is not values entered because it gives an error.
+  ### UNIQUE          - It is not allow to duplicates but it allows blank values.
+  ### CHECK           - It is used to check the condition for the column.
+  ### DEFAULT         - It is the auto values,if no values are provide.
+  ### AUTO_INCREMENT  - It gives unique id automatically increased.
+  Finally I created the employee database with using DDL Commands with Constraints.
   
 
 
